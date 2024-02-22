@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+}
+
+h1.namn {
+    background-color: white;
+}
+
+h2.Kontakt {
+        background-color: aquamarine;
+
+}
+
+h2.edu {
+
+    background-color: rgb(42, 165, 42);
+}
+
+h2.work {
+
+    background-color: rgb(97, 35, 162);
+}
+
+h2.lung {
+
+    background-color: beige;
+}
+
+h4.rub {
+
+    background-color: black;
+}
+
+h5.12 {
+
+    background-color: aquamarine;
+}
+
+h1.int{ 
+
+    background-color: rgb(72, 167, 92);
+}
+
+h3.par2{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1.cv{
+
+    font-size:xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+h2.int{
+
+    background-color: bisque;
+}
